@@ -4,7 +4,7 @@ In this sample C# Console App I created a Task Management application that allow
 => Delete a task.<br />
 => Mark a task as complete.
 
-As a part of my BDD training I have also wrote feature files and step definitions for all the three features in TaskManager.Tests directory. <br />
+As a part of my BDD training I have also written feature files and step definitions for all the three features in TaskManager.Tests directory. <br />
 Attaching a screenshot of all the testcases being passed.
 ![image](https://github.com/user-attachments/assets/92d69132-58ba-4c45-bb51-2e758b801147)
 
